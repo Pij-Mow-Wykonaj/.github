@@ -17,7 +17,6 @@ Stay tuned for updates!
 ## 👨‍💻 Developers
 
 - [**@misgoodzik**](https://github.com/misgoodzik) - Full-stack Developer  
-- [**@jhnlol**](https://github.com/jhnlol) - Full-stack Developer 
 
 Together, we bring the wildest party game to life. 💻🔥
 
